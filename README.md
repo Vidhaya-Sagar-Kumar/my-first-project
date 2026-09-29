@@ -1,2 +1,2 @@
-# my-first-project
+# adivasi-shiksha
 "My first GitHub repository"
